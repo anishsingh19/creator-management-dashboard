@@ -1,0 +1,101 @@
+Creator_ID,Name,Platform,Primary_Niche,Secondary_Niche,Followers,Engagement_Rate,Avg_Views,Contact_Email,Contact_Number,City,Language,Cost_Per_Post
+CR001,Creator Alpha,Instagram,Fitness,Lifestyle,120000,3.5,40000,alpha@example.com,9999999999,Mumbai,English/Hindi,50000
+CR002,Creator Beta,YouTube,Finance,Startup,85000,4.2,50000,beta@example.com,9999999999,Delhi,Hindi,40000
+CR003,Creator Gamma,Instagram,Travel,Lifestyle,45000,2.8,20000,gamma@example.com,9999999999,Bangalore,English,20000
+CR004,Creator Delta,Twitter,Tech,AI,60000,5.1,30000,delta@example.com,9999999999,Pune,English,30000
+CR005,Creator Epsilon,YouTube,Food,Lifestyle,150000,3.9,60000,epsilon@example.com,9999999999,Mumbai,Hindi,60000
+CR006,Creator Zeta,LinkedIn,Business,Marketing,35000,4.5,15000,zeta@example.com,9999999999,Hyderabad,English,25000
+CR007,Creator Eta,Instagram,Fashion,Beauty,210000,2.1,80000,eta@example.com,9999999999,Mumbai,English/Hindi,75000
+CR008,Creator Theta,YouTube,Gaming,Tech,450000,5.8,250000,theta@example.com,9999999999,Chennai,English,120000
+CR009,Creator Iota,Twitter,Finance,Crypto,95000,3.2,45000,iota@example.com,9999999999,Delhi,English,45000
+CR010,Creator Kappa,Instagram,Fitness,Nutrition,110000,4.1,42000,kappa@example.com,9999999999,Bangalore,English/Hindi,48000
+CR011,Creator Lambda,YouTube,Education,Science,320000,6.2,180000,lambda@example.com,9999999999,Pune,English,90000
+CR012,Creator Mu,Instagram,Travel,Photography,88000,3.6,35000,mu@example.com,9999999999,Mumbai,English,35000
+CR013,Creator Nu,LinkedIn,Tech,Software,55000,5.5,22000,nu@example.com,9999999999,Hyderabad,English,32000
+CR014,Creator Xi,YouTube,Food,Vlogs,180000,3.1,70000,xi@example.com,9999999999,Delhi,Hindi,65000
+CR015,Creator Omicron,Instagram,Comedy,Lifestyle,500000,4.8,300000,omicron@example.com,9999999999,Mumbai,Hindi,150000
+CR016,Creator Pi,Twitter,Sports,News,75000,2.5,25000,pi@example.com,9999999999,Chennai,English,28000
+CR017,Creator Rho,Instagram,Art,Design,42000,3.9,18000,rho@example.com,9999999999,Bangalore,English,22000
+CR018,Creator Sigma,YouTube,Automotive,Reviews,220000,4.4,110000,sigma@example.com,9999999999,Pune,English/Hindi,85000
+CR019,Creator Tau,LinkedIn,HR,Career,28000,5.1,12000,tau@example.com,9999999999,Delhi,English,20000
+CR020,Creator Upsilon,Instagram,Parenting,Lifestyle,130000,3.8,55000,upsilon@example.com,9999999999,Mumbai,Hindi,55000
+CR021,Creator Phi,YouTube,Music,Covers,275000,4.1,130000,phi@example.com,9999999999,Hyderabad,English/Hindi,95000
+CR022,Creator Chi,Twitter,Politics,News,115000,2.9,60000,chi@example.com,9999999999,Delhi,Hindi,50000
+CR023,Creator Psi,Instagram,Real Estate,Finance,65000,3.4,28000,psi@example.com,9999999999,Bangalore,English,32000
+CR024,Creator Omega,YouTube,Fitness,Vlogs,190000,4.6,85000,omega@example.com,9999999999,Mumbai,English/Hindi,70000
+CR025,Creator Orion,LinkedIn,Startup,Venture,48000,5.3,21000,orion@example.com,9999999999,Pune,English,30000
+CR026,Creator Lyra,Instagram,Fashion,Lifestyle,310000,2.8,120000,lyra@example.com,9999999999,Delhi,English,100000
+CR027,Creator Draco,YouTube,Tech,Gadgets,410000,5.2,210000,draco@example.com,9999999999,Bangalore,English,110000
+CR028,Creator Cygnus,Twitter,AI,Data Science,82000,4.9,38000,cygnus@example.com,9999999999,Hyderabad,English,42000
+CR029,Creator Vela,Instagram,Travel,Food,105000,3.7,45000,vela@example.com,9999999999,Mumbai,English/Hindi,46000
+CR030,Creator Pyxis,YouTube,Education,Math,160000,6.1,90000,pyxis@example.com,9999999999,Chennai,English,68000
+CR031,Creator Aries,LinkedIn,Leadership,Management,62000,4.2,25000,aries@example.com,9999999999,Delhi,English,35000
+CR032,Creator Taurus,Instagram,Fitness,Yoga,95000,4,38000,taurus@example.com,9999999999,Pune,Hindi,40000
+CR033,Creator Gemini,YouTube,Comedy,Skits,650000,5.5,400000,gemini@example.com,9999999999,Mumbai,Hindi,180000
+CR034,Creator Cancer,Twitter,Mental Health,Wellness,45000,3.8,20000,cancer@example.com,9999999999,Bangalore,English,24000
+CR035,Creator Leo,Instagram,Pets,Lifestyle,140000,4.5,65000,leo@example.com,9999999999,Hyderabad,English,58000
+CR036,Creator Virgo,YouTube,Beauty,Tutorials,280000,3.2,110000,virgo@example.com,9999999999,Delhi,English/Hindi,85000
+CR037,Creator Libra,LinkedIn,Law,Ethics,34000,4.1,14000,libra@example.com,9999999999,Mumbai,English,26000
+CR038,Creator Scorpio,Instagram,Astrology,Lifestyle,78000,3.9,32000,scorpio@example.com,9999999999,Pune,Hindi,34000
+CR039,Creator Sagittarius,YouTube,Travel,Documentary,210000,4.7,95000,sagittarius@example.com,9999999999,Bangalore,English,75000
+CR040,Creator Capricorn,Twitter,Business,Economy,88000,3.5,40000,capricorn@example.com,9999999999,Chennai,English,42000
+CR041,Creator Aquarius,Instagram,Art,Painting,55000,4.2,24000,aquarius@example.com,9999999999,Delhi,English,28000
+CR042,Creator Pisces,YouTube,Music,Production,170000,4.4,75000,pisces@example.com,9999999999,Mumbai,English,65000
+CR043,Creator Nova,LinkedIn,Design,UX/UI,42000,5,19000,nova@example.com,9999999999,Bangalore,English,29000
+CR044,Creator Pulsar,Instagram,Tech,Reviews,125000,4.1,55000,pulsar@example.com,9999999999,Hyderabad,English,52000
+CR045,Creator Quasar,YouTube,Gaming,Esports,520000,6,300000,quasar@example.com,9999999999,Pune,English/Hindi,140000
+CR046,Creator Zenith,Twitter,Motivation,Quotes,210000,3.1,80000,zenith@example.com,9999999999,Mumbai,Hindi,60000
+CR047,Creator Apex,Instagram,Fitness,Bodybuilding,195000,4.3,85000,apex@example.com,9999999999,Delhi,Hindi,72000
+CR048,Creator Vertex,YouTube,Finance,Investing,260000,4.9,120000,vertex@example.com,9999999999,Bangalore,English,90000
+CR049,Creator Helix,LinkedIn,Biotech,Science,28000,4.8,12000,helix@example.com,9999999999,Chennai,English,24000
+CR050,Creator Nexus,Instagram,Startup,Culture,62000,3.6,26000,nexus@example.com,9999999999,Mumbai,English,32000
+CR051,Creator Atlas,YouTube,History,Education,185000,5.4,90000,atlas@example.com,9999999999,Pune,English,70000
+CR052,Creator Titan,Twitter,Sports,Cricket,320000,4.2,150000,titan@example.com,9999999999,Delhi,Hindi,95000
+CR053,Creator Apollo,Instagram,Photography,Portraits,75000,3.8,32000,apollo@example.com,9999999999,Bangalore,English,36000
+CR054,Creator Athena,YouTube,DIY,Crafts,240000,3.5,95000,athena@example.com,9999999999,Hyderabad,Hindi,75000
+CR055,Creator Hermes,LinkedIn,Logistics,Supply Chain,18000,4.1,8000,hermes@example.com,9999999999,Mumbai,English,18000
+CR056,Creator Ares,Instagram,Fitness,Crossfit,115000,4.4,52000,ares@example.com,9999999999,Delhi,English/Hindi,48000
+CR057,Creator Zeus,YouTube,Tech,Software,380000,5.1,190000,zeus@example.com,9999999999,Bangalore,English,110000
+CR058,Creator Hera,Twitter,Feminism,Social Issues,85000,4,36000,hera@example.com,9999999999,Pune,English,42000
+CR059,Creator Poseidon,Instagram,Travel,Ocean,92000,3.7,40000,poseidon@example.com,9999999999,Chennai,English,45000
+CR060,Creator Hades,YouTube,True Crime,Mystery,420000,5.6,220000,hades@example.com,9999999999,Mumbai,Hindi,125000
+CR061,Creator Demeter,LinkedIn,Agriculture,Sustainability,22000,4.7,10000,demeter@example.com,9999999999,Delhi,English,21000
+CR062,Creator Artemis,Instagram,Wildlife,Photography,135000,4.5,60000,artemis@example.com,9999999999,Bangalore,English,55000
+CR063,Creator Vulcan,YouTube,Engineering,DIY,195000,5.2,95000,vulcan@example.com,9999999999,Pune,English,75000
+CR064,Creator Venus,Twitter,Fashion,Trends,150000,2.8,65000,venus@example.com,9999999999,Mumbai,English/Hindi,60000
+CR065,Creator Mars,Instagram,Automotive,Cars,180000,4.1,80000,mars@example.com,9999999999,Hyderabad,English,70000
+CR066,Creator Jupiter,YouTube,Science,Space,310000,5.9,160000,jupiter@example.com,9999999999,Bangalore,English,95000
+CR067,Creator Saturn,LinkedIn,Finance,Macro,58000,4.4,26000,saturn@example.com,9999999999,Delhi,English,36000
+CR068,Creator Uranus,Instagram,Comedy,Memes,410000,4.8,200000,uranus@example.com,9999999999,Mumbai,Hindi,115000
+CR069,Creator Neptune,YouTube,Music,LoFi,225000,3.6,90000,neptune@example.com,9999999999,Pune,English,78000
+CR070,Creator Pluto,Twitter,Astronomy,News,65000,5.1,32000,pluto@example.com,9999999999,Chennai,English,32000
+CR071,Creator Chronos,Instagram,Watches,Luxury,88000,3.4,36000,chronos@example.com,9999999999,Mumbai,English,44000
+CR072,Creator Eros,YouTube,Relationships,Advice,165000,4.2,75000,eros@example.com,9999999999,Delhi,Hindi,62000
+CR073,Creator Nike,LinkedIn,Sports Management,Career,24000,4.6,11000,nike@example.com,9999999999,Bangalore,English,22000
+CR074,Creator Helios,Instagram,Energy,Tech,45000,4,20000,helios@example.com,9999999999,Hyderabad,English,25000
+CR075,Creator Selene,YouTube,Beauty,Skincare,290000,3.3,120000,selene@example.com,9999999999,Mumbai,English/Hindi,88000
+CR076,Creator Eos,Twitter,Poetry,Literature,35000,4.7,16000,eos@example.com,9999999999,Pune,English,20000
+CR077,Creator Pan,Instagram,Music,Acoustic,72000,3.9,32000,pan@example.com,9999999999,Delhi,English,35000
+CR078,Creator Iris,YouTube,Art,Digital,155000,4.5,70000,iris@example.com,9999999999,Bangalore,English,60000
+CR079,Creator Flora,LinkedIn,Botany,Research,16000,5.2,8000,flora@example.com,9999999999,Chennai,English,15000
+CR080,Creator Fauna,Instagram,Pets,Training,110000,4.3,50000,fauna@example.com,9999999999,Mumbai,Hindi,48000
+CR081,Creator Sol,YouTube,Travel,Solo,195000,4.1,88000,sol@example.com,9999999999,Delhi,English,72000
+CR082,Creator Luna,Twitter,Astrology,Daily,140000,3.5,62000,luna@example.com,9999999999,Pune,Hindi,55000
+CR083,Creator Terra,Instagram,Environment,Activism,85000,4.8,40000,terra@example.com,9999999999,Bangalore,English,42000
+CR084,Creator Aqua,YouTube,Swimming,Sports,95000,3.7,42000,aqua@example.com,9999999999,Hyderabad,English,45000
+CR085,Creator Ignis,LinkedIn,Cybersecurity,Tech,46000,5.5,22000,ignis@example.com,9999999999,Mumbai,English,34000
+CR086,Creator Aeris,Instagram,Aviation,Travel,68000,4,30000,aeris@example.com,9999999999,Delhi,English,33000
+CR087,Creator Lux,YouTube,Photography,Lighting,130000,4.3,60000,lux@example.com,9999999999,Chennai,English,54000
+CR088,Creator Nox,Twitter,Gaming,Streaming,280000,5.6,140000,nox@example.com,9999999999,Bangalore,English/Hindi,90000
+CR089,Creator Vita,Instagram,Health,Wellness,115000,3.9,52000,vita@example.com,9999999999,Pune,English,48000
+CR090,Creator Mors,YouTube,Philosophy,Books,85000,5,40000,mors@example.com,9999999999,Mumbai,English,40000
+CR091,Creator Tempus,LinkedIn,Productivity,SaaS,38000,4.7,18000,tempus@example.com,9999999999,Delhi,English,28000
+CR092,Creator Spatium,Instagram,Interior Design,Home,145000,3.6,65000,spatium@example.com,9999999999,Bangalore,English,58000
+CR093,Creator Materia,YouTube,Materials Science,Tech,75000,5.3,35000,materia@example.com,9999999999,Hyderabad,English,36000
+CR094,Creator Energia,Twitter,Fitness,Motivation,105000,4.2,48000,energia@example.com,9999999999,Mumbai,Hindi,45000
+CR095,Creator Vis,Instagram,Martial Arts,Fitness,92000,4.5,42000,vis@example.com,9999999999,Pune,English/Hindi,42000
+CR096,Creator Pax,YouTube,Meditation,Yoga,160000,4.1,75000,pax@example.com,9999999999,Chennai,English,65000
+CR097,Creator Bellum,LinkedIn,Defense,Geopolitics,26000,4.9,12000,bellum@example.com,9999999999,Delhi,English,22000
+CR098,Creator Lex,Instagram,Legal Tips,Business,55000,3.8,25000,lex@example.com,9999999999,Bangalore,English,28000
+CR099,Creator Jus,YouTube,Cooking,Recipes,320000,3.5,140000,jus@example.com,9999999999,Mumbai,Hindi,95000
+CR100,Creator Ratio,Twitter,Data Science,AI,88000,5.2,42000,ratio@example.com,9999999999,Hyderabad,English,44000
