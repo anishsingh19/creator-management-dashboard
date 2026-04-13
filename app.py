@@ -6,26 +6,18 @@ st.set_page_config(page_title="Creator Dashboard", layout="wide")
 st.title("🎬 Creator Campaign Dashboard")
 
 # ============================================
-# 1. SAMPLE DATA (Replace this later with Google Sheet)
+# 1. SAMPLE DATA (Google Sheet)
 # ============================================
 @st.cache_data
 def load_creators():
-    """Load and clean creator data"""
-    data = {
-        'Creator_ID': [1, 2, 3, 4, 5],
-        'Name': ['Alice Johnson', 'Bob Smith', 'Charlie Lee', 'Diana Prince', 'Evan Dark'],
-        'Platform': ['Instagram', 'YouTube', 'TikTok', 'Instagram', 'YouTube'],
-        'Primary_Niche': ['Tech', 'Gaming', 'Fitness', 'Tech', 'Gaming'],
-        'Secondary_Niche': ['AI', 'Streaming', 'Health', 'Web3', 'Esports'],
-        'Followers': [50000, 100000, 75000, 120000, 95000],
-        'Engagement_Rate_%': [5.2, 3.1, 6.8, 4.5, 3.9],
-        'Contact_Email': ['alice@email.com', 'bob@email.com', 'charlie@email.com', 'diana@email.com', 'evan@email.com'],
-        'Contact_Number': [9876543210, 9876543211, 9876543212, 9876543213, 9876543214],
-        'City': ['Mumbai', 'Bangalore', 'Delhi', 'Mumbai', 'Hyderabad'],
-        'Language': ['English', 'Hindi', 'English', 'English', 'Hindi'],
-        'Cost_Per_Post': [5000, 8000, 3000, 7000, 6000]
-    }
-    return pd.DataFrame(data)
+    url = "https://docs.google.com/spreadsheets/d/11kZwNC-WXd7SvSK0XEDfabtBUNPyoWQ8yeED-Zv48qM/export?format=csv"
+    df = pd.read_csv(url) 
+    
+    # Clean data
+    df['Followers'] = pd.to_numeric(df['Followers'], errors='coerce')
+    df['Engagement_Rate_%'] = pd.to_numeric(df['Engagement_Rate_%'], errors='coerce')
+    
+    return df
 
 # Load data
 creators_df = load_creators()
