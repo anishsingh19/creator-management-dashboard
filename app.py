@@ -15,7 +15,7 @@ def load_creators():
     
     # Clean data
     df['Followers'] = pd.to_numeric(df['Followers'], errors='coerce')
-    df['Engagement_Rate_%'] = pd.to_numeric(df['Engagement_Rate_%'], errors='coerce')
+    df['Engagement_Rate'] = pd.to_numeric(df['Engagement_Rate'], errors='coerce')
     
     return df
 
